@@ -1,0 +1,21 @@
+EXPENSE TRACKER - MONTHLY REPORT (2026-08)
+================================================================
+Generated on       : 2026-11-26 20:59
+Total Spent        : Rs. 21,230.00
+Monthly Budget     : Rs. 47,500.00
+Transactions       : 12 across 12 active days
+Daily Average      : Rs. 1,769.17
+Peak Spending Day  : 2026-08-29 (Rs. 3,900.00)
+Projected Month End: Rs. 21,230.00 (Trend: ~Rs. 685.70/day)
+
+CATEGORY BREAKDOWN & BUDGET STATUS
+----------------------------------------------------------------
+Category              Budget (Rs)   Spent (Rs)   Used %       Status
+----------------------------------------------------------------
+Food & Dining           18,000.00     9,850.00    54.7%     On Track
+Transport                8,000.00     3,330.00    41.6%     On Track
+Education & Books        6,000.00     3,650.00    60.8%     On Track
+Utilities & Data         5,000.00     1,950.00    39.0%     On Track
+Entertainment            4,000.00     1,500.00    37.5%     On Track
+Health & Personal        3,500.00       950.00    27.1%     On Track
+Other                    3,000.00         0.00     0.0%     On Track

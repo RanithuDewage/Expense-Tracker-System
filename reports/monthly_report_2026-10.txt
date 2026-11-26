@@ -1,0 +1,27 @@
+EXPENSE TRACKER - MONTHLY REPORT (2026-10)
+================================================================
+Generated on       : 2026-11-26 20:59
+Total Spent        : Rs. 30,000.00
+Monthly Budget     : Rs. 47,500.00
+Transactions       : 12 across 12 active days
+Daily Average      : Rs. 2,500.00
+Peak Spending Day  : 2026-10-28 (Rs. 8,900.00)
+Projected Month End: Rs. 30,000.00 (Trend: ~Rs. 916.76/day)
+Vs Previous Month  : +39.7% (Prev: Rs. 21,470.00)
+
+CATEGORY BREAKDOWN & BUDGET STATUS
+----------------------------------------------------------------
+Category              Budget (Rs)   Spent (Rs)   Used %       Status
+----------------------------------------------------------------
+Food & Dining           18,000.00    14,730.00    81.8%     On Track
+Transport                8,000.00     2,220.00    27.8%     On Track
+Education & Books        6,000.00     5,450.00    90.8%   Near Limit
+Utilities & Data         5,000.00     4,500.00    90.0%   Near Limit
+Entertainment            4,000.00     2,200.00    55.0%     On Track
+Health & Personal        3,500.00       900.00    25.7%     On Track
+Other                    3,000.00         0.00     0.0%     On Track
+
+UNUSUAL / HIGH EXPENSE ALERTS (Z-Score Anomaly Check)
+----------------------------------------------------------------
+- [2026-10-28] Food & Dining: Rs. 8,900.00 (Birthday treat dinner for friends at restaurant) | Cat Avg: Rs. 2,795.83 (Z=2.58)
+- [2026-10-18] Education & Books: Rs. 4,800.00 (External SSD drive for datasets (shared purchase)) | Cat Avg: Rs. 2,460.00 (Z=1.51)
